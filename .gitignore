@@ -1,2 +1,4 @@
-sql/database_ipxus.rar
+sql/ipxus.dump.sql
 .env
+venv/*
+tables.png
